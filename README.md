@@ -6,20 +6,10 @@
 
 ---
 
-### Tech Stack & Tools
+###  Tech Stack & Tools
 
-**Frontend & Engineering:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Design & Creative Technology:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity_Design-005580?style=for-the-badge&logo=affinity&logoColor=white)
-![Creative Coding](https://img.shields.io/badge/Creative_Coding-Physical_Computing-8E44AD?style=for-the-badge)
+* **Frontend & Engineering:** JavaScript (ES6+), React, TypeScript, HTML5/CSS3, Tailwind CSS, Webpack, Git
+* **Design & Creative Tech:** Figma, Affinity Suite, Creative Coding & Physical Computing
 
 ---
 
