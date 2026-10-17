@@ -1,9 +1,5 @@
 ### Creative Developer & UI/UX Designer / Graphic Designer 
 
-I am a creative developer and designer with an **Integrated Master in Audio Visual Arts**. I bridge the gap between aesthetic design and technical logic to build engaging, responsive digital experiences.
-
----
-
 ### Visual Portfolio & Code
 *  **Design & Creative Coding:** [Explore my Behance Portfolio](https://www.behance.net/chrysanthimatsagka) (Packaging, Brand Identity, & Generative JS)
 *  **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/chrysanthi-matsagka-2790042a2/)
