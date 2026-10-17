@@ -8,7 +8,7 @@
 
 ###  Tech Stack & Tools
 
-* **Frontend & Engineering:** JavaScript (ES6+), React, TypeScript, HTML5/CSS3, Tailwind CSS, Webpack, Git
+* **Frontend & Engineering:** JavaScript (ES6+), React, HTML5/CSS3, Webpack, Git
 * **Design & Creative Tech:** Figma, Affinity Suite, Creative Coding & Physical Computing
 
 ---
